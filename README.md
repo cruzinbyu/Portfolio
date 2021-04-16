@@ -1,13 +1,15 @@
 ##### ePortfolio
 #### Andres Cruz Portfolio
 
-'''
 
+```
 #####Professional Self-Assessment:
 Over the course of SNHU computer science program, I was introduced to different coding languages. The coding languages formed the base of my software development skills and allowed me to try out the languages first hand. In doing this I was able to get a taste for each languages syntax, ease of use, and in ability to be implemented into other projects. I was also exposed to software development best practices and the lifecycle models. Overall it was a great deal of information in a seemingly short amount of time. For my ePortfolio I chose an artifact from my MongoDb course. I felt that the incorporation of the jupyter notebook, the python language, and the mongo database was a well round demonstration of a few of the things I learned.  I worked on fine tuning the programs code making it more concise and implementing more comments to help the next person with implementation or improvements. The project had me create an html dashboard that could be accessed remotely with a username and password. With the creation of users I also was able to assign user privileges based on the users role. This is helpful for separation of duties with a focus on the least privilege security principle. The dashboard would have the company’s loaded database, in my situation it was a pet rescue service. The user could then search the database to find the perfect animal match for its specific rescue need with traits and characteristics that I built.  All of this was coded in the python language and modeled together with the jupyter notebook. The project and the course overall introduced us to the software development process which often times required us to collaborate on projects as a team. We would perform peer reviews that would provide helpful insight and feedback. One course had us work together to build a jukebox that we loaded with our favorite artists and songs. Team collaborations model the real world where often times multiple teams will work on different pieces of the program and utilize a tool like GitHub to keep everything updated and easily viewable from any location. 
 
 The artifact I chose combined a few different computer science skills. The first skill was mongo dB knowledge on building a database. We started off with basic database traversing and learned how to add/delete and modify entries from an existing template. For the final we had to build our database from the guidelines given by the customer. The database I built included information on the customers service which featured rescue dogs based on the type of rescue. Once the database was created I wrote a CRUD python script that assisted in initializing the mongo client, provide secure access with the username and password and access the data to create remove update or delete. The jupyter notebook was the glue that allowed me to combine all these pieces together and create the webpage that would be accessible to the customer and its employees. 
-'''
+
+
+```
 
 Code Review:
 
